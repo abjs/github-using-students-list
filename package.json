@@ -1,0 +1,14 @@
+{
+  "name": "github-students-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/abjs/GithubStudentsList.git",
+  "author": "Abin Joseph <itsmeabjs@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write 'data.json' 'README.md'"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
