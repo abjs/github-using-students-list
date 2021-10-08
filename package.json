@@ -1,8 +1,7 @@
 {
-  "name": "github-students-list",
+  "name": "github-using-students-list",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/abjs/GithubStudentsList.git",
+  "repository": "https://github.com/abjs/github-using-students-list.git",
   "author": "Abin Joseph <itsmeabjs@gmail.com>",
   "license": "MIT",
   "scripts": {
