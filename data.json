@@ -29,7 +29,7 @@
       "github": "https://github.com/anwarsadiqueka",
       "college": "MES marampally ",
       "department": "b voc software development & system administratrion"
-    }'
+    },
       {
       "name": "Muhammed Shebeeb K M",
       "github": "https://github.com/mhdshebeeb",
@@ -46,7 +46,7 @@
       "name":"Nesla T N",
       "github":"https://github.com/neslatn01",
       "college": "kmea",
-      "department","computer science and engineering"
+      "department":"computer science and engineering"
     },
     {
       "name": "Alwin Antonis",
@@ -64,7 +64,7 @@
       
       "name": "Varun Madhu",
       "github": "https://github.com/solistic-king",
-      "college": "KMEA"
+      "college": "KMEA",
       "department": "Mechanical Engineering"
     },
     {
