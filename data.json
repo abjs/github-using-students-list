@@ -23,6 +23,12 @@
       "github": "https://github.com/thaniya123",
       "college": "vidyodaya ",
       "department": "7th"
+    }'
+      {
+      "name": "Muhammed Shebeeb K M",
+      "github": "https://github.com/mhdshebeeb",
+      "college": "KMEA Engineering Collage ",
+      "department": "EEE"
     },
     {
       "name": "thaniya azhar",
@@ -31,10 +37,10 @@
       "department": "7th"
     },
     {
-      "name":Nesla T N",
+      "name":"Nesla T N",
       "github":"https://github.com/neslatn01",
       "college": "kmea",
-      "department","computer science and engineering",
+      "department","computer science and engineering"
     }
     {
     "name": "Adil nisar",
