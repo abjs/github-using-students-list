@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github-using-students-list/static/css/main.fdecd9fb.chunk.css",
+    "main.js": "/github-using-students-list/static/js/main.32eb7dfc.chunk.js",
+    "main.js.map": "/github-using-students-list/static/js/main.32eb7dfc.chunk.js.map",
+    "runtime-main.js": "/github-using-students-list/static/js/runtime-main.a1506d83.js",
+    "runtime-main.js.map": "/github-using-students-list/static/js/runtime-main.a1506d83.js.map",
+    "static/js/2.287a6fe1.chunk.js": "/github-using-students-list/static/js/2.287a6fe1.chunk.js",
+    "static/js/2.287a6fe1.chunk.js.map": "/github-using-students-list/static/js/2.287a6fe1.chunk.js.map",
+    "index.html": "/github-using-students-list/index.html",
+    "static/css/main.fdecd9fb.chunk.css.map": "/github-using-students-list/static/css/main.fdecd9fb.chunk.css.map",
+    "static/js/2.287a6fe1.chunk.js.LICENSE.txt": "/github-using-students-list/static/js/2.287a6fe1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1506d83.js",
+    "static/js/2.287a6fe1.chunk.js",
+    "static/css/main.fdecd9fb.chunk.css",
+    "static/js/main.32eb7dfc.chunk.js"
+  ]
+}
