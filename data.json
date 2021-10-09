@@ -7,6 +7,12 @@
       "department": "computer science and engineering"
     }, 
     {
+      "name": "Farisha KR",
+      "github": "https://github.com/FarishaKR",
+      "college": "KMEA",
+      "department": "computer science and engineering"
+    }, 
+    {
       "name": "Mohamed ashiq p",
       "github": "https://github.com/Ashiqmohd123",
       "college": "MES",
@@ -23,6 +29,30 @@
       "github": "https://github.com/mhdshebeeb",
       "college": "KMEA Engineering Collage ",
       "department": "EEE"
+    },
+    {
+      "name": "thaniya azhar",
+      "github": "https://github.com/thaniya123",
+      "college": "vidyodaya ",
+      "department": "7th"
+    },
+    {
+      "name":"Nesla T N",
+      "github":"https://github.com/neslatn01",
+      "college": "kmea",
+      "department","computer science and engineering"
     }
+    {
+    "name": "Adil nisar",
+      "github": "https://github.com/Adilnisar",
+      "college": "mes ",
+      "department": "bvoc sdsa"
+    },
+    {
+    "name": "sruthy l.robin",
+      "github": "https://github.com/SRUTHYYY",
+      "college": "MES ",
+      "department": "SDSA"
+   }
   ]
 }
