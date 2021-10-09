@@ -58,7 +58,14 @@
       "name": "Nesla T N",
       "github": "https://github.com/neslatn01",
       "college": "kmea",
-      "department": "computer science and engineering"
+      "department","computer science and engineering"
+    },
+     {
+      "name": "imrosh",
+      "github": "https://github.com/imrosh",
+      "college": "kmea rmx",
+      "department": "mech"
+      "department":"computer science and engineering"
     },
     {
       "name": "Alwin Antonis",
