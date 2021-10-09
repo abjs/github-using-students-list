@@ -49,6 +49,12 @@
       "department","computer science and engineering"
     }
     {
+    "name" : "manaf",
+    "github": "https://github.com/manaf2001",
+      "college": "KMEA",
+      "department": "mechanical engineering"
+    },{
+      
       "name": "Varun Madhu",
       "github": "https://github.com/solistic-king",
       "college": "KMEA"
