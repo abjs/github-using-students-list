@@ -25,6 +25,11 @@
       "department": "7th"
     },
     {
+      "name": "Ayush P S",
+      "github": "https://github.com/ayushkrishna2",
+      "college": "KMEA"
+      "department": "MECHANICAL"
+    },
       "name": "Nayof K S",
       "github": "https://github.com/Nayof17",
       "college": "KMEA",
@@ -70,14 +75,13 @@
       "name": "Nesla T N",
       "github": "https://github.com/neslatn01",
       "college": "kmea",
-      "department","computer science and engineering"
+      "department":"computer science and engineering"
     },
      {
       "name": "imrosh",
       "github": "https://github.com/imrosh",
       "college": "kmea rmx",
       "department": "mech"
-      "department":"computer science and engineering"
     },
     {
       "name": "Alwin Antonis",
