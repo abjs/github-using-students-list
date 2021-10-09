@@ -5,13 +5,13 @@
       "github": "https://github.com/abjs",
       "college": "KMEA",
       "department": "computer science and engineering"
-    }, 
+    },
     {
       "name": "Farisha KR",
       "github": "https://github.com/FarishaKR",
       "college": "KMEA",
       "department": "computer science and engineering"
-    }, 
+    },
     {
       "name": "Mohamed ashiq p",
       "github": "https://github.com/Ashiqmohd123",
@@ -28,7 +28,7 @@
       "name": "Jasmin.M.A",
       "github": "https://github.com/JASMIN-glitch",
       "college": "KMEA ",
-      "department": "COMPUTER SCIENCE AND ENGINEERING",
+      "department": "COMPUTER SCIENCE AND ENGINEERING"
     },
     {
       "name": "anwar sadique k a",
@@ -36,7 +36,7 @@
       "college": "MES marampally ",
       "department": "b voc software development & system administratrion"
     },
-      {
+    {
       "name": "Muhammed Shebeeb K M",
       "github": "https://github.com/mhdshebeeb",
       "college": "KMEA Engineering Collage ",
@@ -49,10 +49,10 @@
       "department": "7th"
     },
     {
-      "name":"Nesla T N",
-      "github":"https://github.com/neslatn01",
+      "name": "Nesla T N",
+      "github": "https://github.com/neslatn01",
       "college": "kmea",
-      "department":"computer science and engineering"
+      "department": "computer science and engineering"
     },
     {
       "name": "Alwin Antonis",
@@ -60,36 +60,35 @@
       "college": "MES",
       "department": "Software Development and System Administration"
     },
-  {
-      
-    "name" : "manaf",
-    "github": "https://github.com/manaf2001",
+    {
+      "name": "manaf",
+      "github": "https://github.com/manaf2001",
       "college": "KMEA",
       "department": "mechanical engineering"
-    },{
-      
+    },
+    {
       "name": "Varun Madhu",
       "github": "https://github.com/solistic-king",
       "college": "KMEA",
       "department": "Mechanical Engineering"
     },
     {
-    "name": "Adil nisar",
+      "name": "Adil nisar",
       "github": "https://github.com/Adilnisar",
       "college": "mes ",
       "department": "bvoc sdsa"
     },
     {
-    "name": "sruthy l.robin",
+      "name": "sruthy l.robin",
       "github": "https://github.com/SRUTHYYY",
       "college": "MES ",
       "department": "SDSA"
-   },
-   {
-    "name": "Sandesh Jain",
+    },
+    {
+      "name": "Sandesh Jain",
       "github": "https://github.com/sandeshjain13",
       "college": "BHU",
       "department": "BIO"
-   }
+    }
   ]
 }
