@@ -18,5 +18,11 @@
       "college": "vidyodaya ",
       "department": "7th"
     }
+    {
+      "name": "Alwin Antonis",
+      "github": "https://github.com/alwinantonis",
+      "college": "MES",
+      "department": "Software Development and System Administration"
+    }
   ]
 }
