@@ -5,7 +5,13 @@
       "github": "https://github.com/abjs",
       "college": "KMEA",
       "department": "computer science and engineering"
-    }, 
+    },
+    {
+      "name": "Farisha KR",
+      "github": "https://github.com/FarishaKR",
+      "college": "KMEA",
+      "department": "computer science and engineering"
+    },
     {
       "name": "Mohamed ashiq p",
       "github": "https://github.com/Ashiqmohd123",
@@ -24,5 +30,112 @@
       "college": "KMEA"
       "department": "MECHANICAL"
     },
+      "name": "Nayof K S",
+      "github": "https://github.com/Nayof17",
+      "college": "KMEA",
+      "department": "Mechanical Engineering"
+    },
+      "name" : "Nujoom Rahman",
+      "github": "http://github.com/NujomR",
+      "college": "KMEA",
+      "Department": "Mechanical Engg"
+    }
+    ,
+    {
+     "name": "shamil ms",
+      "github": "https://github.com/shamilm279",
+      "college": "kmea",
+      "department": "mech"
+    },
+    {
+      "name": "Jasmin.M.A",
+      "github": "https://github.com/JASMIN-glitch",
+      "college": "KMEA ",
+      "department": "COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "name": "anwar sadique k a",
+      "github": "https://github.com/anwarsadiqueka",
+      "college": "MES marampally ",
+      "department": "b voc software development & system administratrion"
+    },
+    {
+      "name": "Muhammed Shebeeb K M",
+      "github": "https://github.com/mhdshebeeb",
+      "college": "KMEA Engineering Collage ",
+      "department": "EEE"
+    },
+    {
+      "name": "thaniya azhar",
+      "github": "https://github.com/thaniya123",
+      "college": "vidyodaya ",
+      "department": "7th"
+    },
+    {
+      "name": "Nesla T N",
+      "github": "https://github.com/neslatn01",
+      "college": "kmea",
+      "department":"computer science and engineering"
+    },
+     {
+      "name": "imrosh",
+      "github": "https://github.com/imrosh",
+      "college": "kmea rmx",
+      "department": "mech"
+    },
+    {
+      "name": "Alwin Antonis",
+      "github": "https://github.com/alwinantonis",
+      "college": "MES",
+      "department": "Software Development and System Administration"
+    },
+    {
+      "name": "manaf",
+      "github": "https://github.com/manaf2001",
+      "college": "KMEA",
+      "department": "mechanical engineering"
+    },
+    {
+      "name": "Varun Madhu",
+      "github": "https://github.com/solistic-king",
+      "college": "KMEA",
+      "department": "Mechanical Engineering"
+    },
+    {
+      "name": "Adil nisar",
+      "github": "https://github.com/Adilnisar",
+      "college": "mes ",
+      "department": "bvoc sdsa"
+    },
+    {
+      "name": "sruthy l.robin",
+      "github": "https://github.com/SRUTHYYY",
+      "college": "MES ",
+      "department": "SDSA"
+    },
+    {
+      "name": "Sandesh Jain",
+      "github": "https://github.com/sandeshjain13",
+      "college": "BHU",
+      "department": "BIO"
+    },
+    {
+     "name": "Muhammed Althaf Ihsan",
+      "github": "https://github.com/Althaf2019",
+      "college": "MES",
+      "department": "BVOC SDSA"
+    },
+    {
+     "name": "Anubhuti Jain",
+      "github": "https://github.com/jainanubhuti",
+      "college": "IIPS",
+      "department": "BCOM"
+    },     
+    {
+      "name": "Mansoor Majeed",
+      "github": "https://github.com/Mans22r",
+      "college": "KMEA",
+      "department": "Computer Science and Engineering"
+    }
   ]
 }
