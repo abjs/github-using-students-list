@@ -25,6 +25,19 @@
       "department": "7th"
     },
     {
+      "name" : "Nujoom Rahman",
+      "github": "http://github.com/NujomR",
+      "college": "KMEA",
+      "Department": "Mechanical Engg"
+    }
+    ,
+    {
+     "name": "shamil ms",
+      "github": "https://github.com/shamilm279",
+      "college": "kmea",
+      "department": "mech"
+    },
+    {
       "name": "Jasmin.M.A",
       "github": "https://github.com/JASMIN-glitch",
       "college": "KMEA ",
@@ -52,7 +65,14 @@
       "name": "Nesla T N",
       "github": "https://github.com/neslatn01",
       "college": "kmea",
-      "department": "computer science and engineering"
+      "department","computer science and engineering"
+    },
+     {
+      "name": "imrosh",
+      "github": "https://github.com/imrosh",
+      "college": "kmea rmx",
+      "department": "mech"
+      "department":"computer science and engineering"
     },
     {
       "name": "Alwin Antonis",
@@ -101,6 +121,12 @@
       "github": "https://github.com/jainanubhuti",
       "college": "IIPS",
       "department": "BCOM"
+    },     
+    {
+      "name": "Mansoor Majeed",
+      "github": "https://github.com/Mans22r",
+      "college": "KMEA",
+      "department": "Computer Science and Engineering"
     }
   ]
 }
