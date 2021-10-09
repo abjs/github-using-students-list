@@ -24,44 +24,50 @@
       "college": "vidyodaya ",
       "department": "7th"
     },
-     {
+    {
+      "name": "Muhammed Sabith",
+      "github": "https://github.com/muhammedsabith3940",
+      "college": "kmea ",
+      "department": "MECH"
+    },
+    {
       "name": "Ajmal",
       "github": "https://github.com/AjmalTI",
       "college": "MES",
       "department": "Bvoc.SDSA"
     },
     {
-    
       "name": "akash Mohan",
       "github": "https://github.com/akash01082002",
       "college": " MES ",
       "department": "SDSA"
     },
-    }
+    {
       "name": "Muhammed Afzal",
       "github": "https://github.com/afsalellikkal220",
       "college": "MES",
       "department": "B.VOC SDSA"
-     },
-     {
+    },
+    {
       "name": "Ayush P S",
       "github": "https://github.com/ayushkrishna2",
-      "college": "KMEA"
+      "college": "KMEA",
       "department": "MECHANICAL"
     },
+    {
       "name": "Nayof K S",
       "github": "https://github.com/Nayof17",
       "college": "KMEA",
       "department": "Mechanical Engineering"
     },
-      "name" : "Nujoom Rahman",
+    {
+      "name": "Nujoom Rahman",
       "github": "http://github.com/NujomR",
       "college": "KMEA",
-      "Department": "Mechanical Engg"
-    }
-    ,
+      "department": "Mechanical Engg"
+    },
     {
-     "name": "shamil ms",
+      "name": "shamil ms",
       "github": "https://github.com/shamilm279",
       "college": "kmea",
       "department": "mech"
@@ -94,9 +100,9 @@
       "name": "Nesla T N",
       "github": "https://github.com/neslatn01",
       "college": "kmea",
-      "department":"computer science and engineering"
+      "department": "computer science and engineering"
     },
-     {
+    {
       "name": "imrosh",
       "github": "https://github.com/imrosh",
       "college": "kmea rmx",
@@ -139,17 +145,17 @@
       "department": "BIO"
     },
     {
-     "name": "Muhammed Althaf Ihsan",
+      "name": "Muhammed Althaf Ihsan",
       "github": "https://github.com/Althaf2019",
       "college": "MES",
       "department": "BVOC SDSA"
     },
     {
-     "name": "Anubhuti Jain",
+      "name": "Anubhuti Jain",
       "github": "https://github.com/jainanubhuti",
       "college": "IIPS",
       "department": "BCOM"
-    },     
+    },
     {
       "name": "Mansoor Majeed",
       "github": "https://github.com/Mans22r",
