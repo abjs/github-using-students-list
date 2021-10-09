@@ -89,12 +89,18 @@
       "github": "https://github.com/sandeshjain13",
       "college": "BHU",
       "department": "BIO"
-    }
+    },
     {
      "name": "Muhammed Althaf Ihsan",
       "github": "https://github.com/Althaf2019",
       "college": "MES",
       "department": "BVOC SDSA"
+    },
+    {
+     "name": "Anubhuti Jain",
+      "github": "https://github.com/jainanubhuti",
+      "college": "IIPS",
+      "department": "BCOM"
     }
   ]
 }
