@@ -24,9 +24,17 @@
       "college": "vidyodaya ",
       "department": "7th"
     }
+    {
+    "name": "Adil nisar",
+      "github": "https://github.com/Adilnisar",
+      "college": "mes ",
+      "department": "bvoc sdsa"
+    },
+    {
     "name": "sruthy l.robin",
       "github": "https://github.com/SRUTHYYY",
       "college": "MES ",
       "department": "SDSA"
+   }
   ]
 }
