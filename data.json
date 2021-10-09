@@ -5,6 +5,18 @@
       "github": "https://github.com/abjs",
       "college": "KMEA",
       "department": "computer science and engineering"
-    }
+    }, 
+    {
+      "name": "Mohamed ashiq p",
+      "github": "https://github.com/Ashiqmohd123",
+      "college": "MES",
+      "department": "Aviation"
+    },
+    {
+      "name": "thaniya azhar",
+      "github": "https://github.com/thaniya123",
+      "college": "vidyodaya ",
+      "department": "7th"
+    },
   ]
 }
