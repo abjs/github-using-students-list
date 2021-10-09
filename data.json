@@ -25,7 +25,7 @@
       "department": "7th"
     },
     {
-      "name" : 'Nujoom Rahman",
+      "name" : "Nujoom Rahman",
       "github": "http://github.com/NujomR",
       "college": "KMEA",
       "Department": "Mechanical Engg"
@@ -115,6 +115,12 @@
       "github": "https://github.com/Althaf2019",
       "college": "MES",
       "department": "BVOC SDSA"
+    },
+    {
+     "name": "Anubhuti Jain",
+      "github": "https://github.com/jainanubhuti",
+      "college": "IIPS",
+      "department": "BCOM"
     },     
     {
       "name": "Mansoor Majeed",
