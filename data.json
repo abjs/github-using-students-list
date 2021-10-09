@@ -25,6 +25,13 @@
       "department": "7th"
     },
     {
+      "name" : 'Nujoom Rahman",
+      "github": "http://github.com/NujomR",
+      "college": "KMEA",
+      "Department": "Mechanical Engg"
+    }
+    ,
+    {
      "name": "shamil ms",
       "github": "https://github.com/shamilm279",
       "college": "kmea",
@@ -114,6 +121,6 @@
       "github": "https://github.com/Mans22r",
       "college": "KMEA",
       "department": "Computer Science and Engineering"
-    },
+    }
   ]
 }
