@@ -6,16 +6,17 @@ export default function App() {
       const response = await fetch(
         "https://raw.githubusercontent.com/abjs/github-using-students-list/main/data.json"
       );
-      const { Data } = await response.json();
-      const dataArray = Object.keys(Data).map((key) => Data[key]);
-      console.log(dataArray);
-      setReviewData(dataArray);
+      try {
+        const { data } = await response.json();
+        setReviewData(data);
+      } catch (error: any) {
+        console.log(error);
+        if (error.message === "Unexpected token < in JSON at position 0") {
+          alert("Please check your internet connection and try again");
+        }
+      }
     }
-    try {
-      fetchData();
-    } catch (error) {
-      console.log("error", error);
-    }
+    fetchData();
   }, []);
   return (
     <div className="app__container">
