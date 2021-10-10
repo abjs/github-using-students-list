@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github-using-students-list/static/css/main.fdecd9fb.chunk.css",
-    "main.js": "/github-using-students-list/static/js/main.32eb7dfc.chunk.js",
-    "main.js.map": "/github-using-students-list/static/js/main.32eb7dfc.chunk.js.map",
+    "main.js": "/github-using-students-list/static/js/main.b37c28c4.chunk.js",
+    "main.js.map": "/github-using-students-list/static/js/main.b37c28c4.chunk.js.map",
     "runtime-main.js": "/github-using-students-list/static/js/runtime-main.a1506d83.js",
     "runtime-main.js.map": "/github-using-students-list/static/js/runtime-main.a1506d83.js.map",
     "static/js/2.287a6fe1.chunk.js": "/github-using-students-list/static/js/2.287a6fe1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a1506d83.js",
     "static/js/2.287a6fe1.chunk.js",
     "static/css/main.fdecd9fb.chunk.css",
-    "static/js/main.32eb7dfc.chunk.js"
+    "static/js/main.b37c28c4.chunk.js"
   ]
 }
