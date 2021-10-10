@@ -163,10 +163,17 @@
       "department": "Computer Science and Engineering"
     },
     {
+
       "name": "Deepraj R",
       "github": "https://github.com/DeeprajR",
       "college": "MAMOC",
       "department": "BSc Computer Science"
+    },
+    {
+      "name": "Aman Pandey",
+      "github": "https://github.com/AmanPandey8269",
+      "college": "ITM GOI",
+      "department": "Information Technology"
     }
   ]
 }
