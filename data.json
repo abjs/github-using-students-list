@@ -180,12 +180,22 @@
       "github": "https://github.com/beegumfathima",
       "college": "KMEA, HACKCLUB KMEA",
       "department": "Alumni, Ex-lead"
+
     },
     {
       "name": "Muhammed Salim",
       "github": "https://github.com/salimkt",
       "college": "KMEA",
       "department": "Computer Science and Engineering"
+
+    }, 
+    {
+      "name": "Haripriya K S ",
+      "github": "https://github.com/Haripriya-ks",
+      "college": "KMEA" ,
+      "department": "COMPUTER SCIENCE "
+
     }
+    
   ]
 }
