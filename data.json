@@ -194,14 +194,18 @@
       "github": "https://github.com/Haripriya-ks",
       "college": "KMEA" ,
       "department": "COMPUTER SCIENCE "
-
     }, 
     {
       "name": "Naswih Abdurahiman",
       "github": "https://github.com/naxwh",
       "college": "SIAS" ,
       "department": "BSc Computer Science"
-
+    },
+    {
+      "name": "Hack Club KMEA ",
+      "github": "https://github.com/hackclubkmea",
+      "college": "KMEA" ,
+      "department": "COMPUTER SCIENCE "
     }
     
   ]
