@@ -218,7 +218,12 @@
       "github": "https://github.com/hackclubkmea",
       "college": "KMEA" ,
       "department": "COMPUTER SCIENCE "
-    }
-    
+    },
+    {
+      "name": "Jungin Kwon",
+      "github": "https://github.com/yyna",
+      "college": "CNU" ,
+      "department": "computer science and engineering"
+    } 
   ]
 }
