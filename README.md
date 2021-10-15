@@ -11,7 +11,7 @@
 
 ```diff
 {
-  "Data": [
+  "data": [
     {
       "name": "Abin Joseph",
       "github": "https://github.com/abjs",
