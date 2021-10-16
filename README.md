@@ -14,7 +14,7 @@
   "data": [
     {
       "name": "Abin Joseph",
-      "github": "https://github.com/abjs",
+      "github": "https://github.com/abjs", 
       "college": "KMEA",
       "department": "computer science and engineering"
     }
