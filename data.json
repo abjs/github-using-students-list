@@ -218,7 +218,7 @@
     },
     {
       "name": "Hack Club KMEA ",
-      "github": "https://github.com/hackclubkmea",
+      "": "https://github.com/hackclubkmea",
       "college": "KMEA",
       "department": "COMPUTER SCIENCE "
     },
@@ -251,6 +251,11 @@
       "github": "https://github.com/Nihal350",
       "college": "SIAS",
       "department": "BCA"
-    }
-  ]
+    },
+    {
+    "name": "Riswana E A",
+      "github": "https://github.com/RiswanaEA",
+      "college": "KMEA",
+      "department": "COMPUTER SCIENCE "
+  }
 }
