@@ -224,6 +224,12 @@
       "github": "https://github.com/yyna",
       "college": "CNU" ,
       "department": "computer science and engineering"
-    } 
+    },
+    {
+      "name": "Afna Sherin",
+      "github": "https://github.com/afna34",
+      "college": "SIAS" ,
+      "department": "BCA"
+    }
   ]
 }
