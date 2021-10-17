@@ -11,17 +11,13 @@
       "github": "https://github.com/FarishaKR",
       "college": "KMEA",
       "department": "computer science and engineering"
-    }, {
-
+    },
+    {
       "name": "vazeem",
-
       "github": "https://github.com/vazeemkadavil",
-
       "college": "KMEA",
-
       "department": "computer science and engineering"
-
-    }
+    },
     {
       "name": "Mohamed ashiq p",
       "github": "https://github.com/Ashiqmohd123",
@@ -173,7 +169,6 @@
       "department": "Computer Science and Engineering"
     },
     {
-
       "name": "Deepraj R",
       "github": "https://github.com/DeeprajR",
       "college": "MAMOC",
@@ -190,83 +185,72 @@
       "github": "https://github.com/beegumfathima",
       "college": "KMEA, HACKCLUB KMEA",
       "department": "Alumni, Ex-lead"
-
     },
     {
       "name": "Muhammed Salim",
       "github": "https://github.com/salimkt",
       "college": "KMEA",
       "department": "Computer Science and Engineering"
-
-    }, 
+    },
     {
       "name": "Haripriya K S ",
       "github": "https://github.com/Haripriya-ks",
-      "college": "KMEA" ,
+      "college": "KMEA",
       "department": "COMPUTER SCIENCE "
     },
     {
       "name": "Akash Santhosh",
       "github": "https://github.com/akash-santhosh",
-      "college": "Jain University Kochi" ,
+      "college": "Jain University Kochi",
       "department": "Information Technology"
-    }, 
+    },
     {
       "name": "Adheel Ahmed C",
       "github": "https://github.com/AdheelAhmed-D3CD",
-      "college": "SIAS" ,
+      "college": "SIAS",
       "department": "COMPUTER SCIENCE"
-    }, 
+    },
     {
       "name": "Naswih Abdurahiman",
       "github": "https://github.com/naxwh",
-      "college": "SIAS" ,
+      "college": "SIAS",
       "department": "BSc Computer Science"
     },
     {
       "name": "Hack Club KMEA ",
       "github": "https://github.com/hackclubkmea",
-      "college": "KMEA" ,
+      "college": "KMEA",
       "department": "COMPUTER SCIENCE "
     },
     {
       "name": "Jungin Kwon",
       "github": "https://github.com/yyna",
-      "college": "CNU" ,
+      "college": "CNU",
       "department": "computer science and engineering"
     },
     {
       "name": "Muhammed Raees ",
-
       "github": "https://github.com/muhammedraeespy",
-
-      "college": "KMEA" ,
-
+      "college": "KMEA",
       "department": "MECHANICAL "
     },
-{
+    {
       "name": "Afna Sherin",
       "github": "https://github.com/afna34",
-      "college": "SIAS" ,
+      "college": "SIAS",
       "department": "BCA"
     },
-
     {
-
       "name": "Muhammed Naseeb ",
-
       "github": "https://github.com/naseeb-ek",
-
-      "college": "KMCT" ,
-
+      "college": "KMCT",
       "department": "Mechanical engineering "
-
     },
     {
       "name": "Mohammed Nihal",
       "github": "https://github.com/Nihal350",
-      "college": "SIAS" ,
+      "college": "SIAS",
       "department": "BCA"
-    } 
+    }
   ]
 }
