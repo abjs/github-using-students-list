@@ -11,7 +11,17 @@
       "github": "https://github.com/FarishaKR",
       "college": "KMEA",
       "department": "computer science and engineering"
-    },
+    }, {
+
+      "name": "vazeem",
+
+      "github": "https://github.com/vazeemkadavil",
+
+      "college": "KMEA",
+
+      "department": "computer science and engineering"
+
+    }
     {
       "name": "Mohamed ashiq p",
       "github": "https://github.com/Ashiqmohd123",
@@ -234,5 +244,17 @@
 
       "department": "MECHANICAL "
     },
+{
+      "name": "Afna Sherin",
+      "github": "https://github.com/afna34",
+      "college": "SIAS" ,
+      "department": "BCA"
+    },
+    {
+      "name": "Mohammed Nihal",
+      "github": "https://github.com/Nihal350",
+      "college": "SIAS" ,
+      "department": "BCA"
+    } 
   ]
 }
