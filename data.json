@@ -259,6 +259,12 @@
       "department": "BCA"
     },
     {
+      "name": "Farzana Khareem ",
+      "github": "https://github.com/farzanakhareem",
+      "college": "KMEA",
+      "department": "Computer Science And Engineering"
+    },
+    {
       "name": "Salmath K A",
       "github": "https://github.com/salmathrahiman313",
       "college": "KMEA",
@@ -275,8 +281,8 @@
       "github": "https://github.com/RiswanaEA",
       "college": "KMEA",
       "department": "COMPUTER SCIENCE "
-  },
-  {
+   },
+   {
       "name": "Shamil Thaikkadan ",
       "github": "https://github.com/Shamilthaikkadan",
       "college": "SIAS",
