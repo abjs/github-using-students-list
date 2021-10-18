@@ -251,6 +251,12 @@
       "github": "https://github.com/Nihal350",
       "college": "SIAS",
       "department": "BCA"
+    },
+    {
+      "name":"Rizwan K Rahim",
+      "github":"https://github.com/RIZWAN-17"
+      "college":"KMEA"
+      "department":"CSE"
     }
   ]
 }
