@@ -13,6 +13,12 @@
       "department": "computer science and engineering"
     },
     {
+      "name": "vazeem",
+      "github": "https://github.com/vazeemkadavil",
+      "college": "KMEA",
+      "department": "computer science and engineering"
+    },
+    {
       "name": "Mohamed ashiq p",
       "github": "https://github.com/Ashiqmohd123",
       "college": "MES",
@@ -77,6 +83,12 @@
       "github": "https://github.com/JASMIN-glitch",
       "college": "KMEA ",
       "department": "COMPUTER SCIENCE AND ENGINEERING"
+    },
+    {
+      "name": "Jesna Susan Siby",
+      "github": "https://github.com/jesna424",
+      "college": "KMEA ",
+      "department": "Computer Science and Engineering"
     },
     {
       "name": "anwar sadique k a",
@@ -163,7 +175,6 @@
       "department": "Computer Science and Engineering"
     },
     {
-
       "name": "Deepraj R",
       "github": "https://github.com/DeeprajR",
       "college": "MAMOC",
@@ -180,29 +191,120 @@
       "github": "https://github.com/beegumfathima",
       "college": "KMEA, HACKCLUB KMEA",
       "department": "Alumni, Ex-lead"
-
     },
     {
       "name": "Muhammed Salim",
       "github": "https://github.com/salimkt",
       "college": "KMEA",
       "department": "Computer Science and Engineering"
-
-    }, 
+    },
     {
       "name": "Haripriya K S ",
       "github": "https://github.com/Haripriya-ks",
-      "college": "KMEA" ,
+      "college": "KMEA",
       "department": "COMPUTER SCIENCE "
-
+    },
+    {
+      "name": "Akash Santhosh",
+      "github": "https://github.com/akash-santhosh",
+      "college": "Jain University Kochi",
+      "department": "Information Technology"
+    },
+    {
+      "name": "Adheel Ahmed C",
+      "github": "https://github.com/AdheelAhmed-D3CD",
+      "college": "SIAS",
+      "department": "COMPUTER SCIENCE"
+    },
+    {
+      "name": "Naswih Abdurahiman",
+      "github": "https://github.com/naxwh",
+      "college": "SIAS",
+      "department": "BSc Computer Science"
+    },
+    {
+      "name": "Hack Club KMEA ",
+      "github": "https://github.com/hackclubkmea",
+      "college": "KMEA",
+      "department": "COMPUTER SCIENCE "
+    },
+    {
+      "name": "Jungin Kwon",
+      "github": "https://github.com/yyna",
+      "college": "CNU",
+      "department": "computer science and engineering"
+    },
+    {
+      "name": "Muhammed Raees ",
+      "github": "https://github.com/muhammedraeespy",
+      "college": "KMEA",
+      "department": "MECHANICAL "
+    },
+    {
+      "name": "Afna Sherin",
+      "github": "https://github.com/afna34",
+      "college": "SIAS",
+      "department": "BCA"
+    },
+    {
+      "name": "Muhammed Naseeb ",
+      "github": "https://github.com/naseeb-ek",
+      "college": "KMCT",
+      "department": "Mechanical engineering "
+    },
+    {
+      "name": "Mohammed Nihal",
+      "github": "https://github.com/Nihal350",
+      "college": "SIAS",
+      "department": "BCA"
+    },
+    {
+      "name": "Rizwan K Rahim",
+      "github": "https://github.com/RIZWAN-17",
+      "college": "KMEA",
+      "department": "CSE"
+    },
+    {
+      "name": "Farzana Khareem ",
+      "github": "https://github.com/farzanakhareem",
+      "college": "KMEA",
+      "department": "Computer Science And Engineering"
+    },
+    {
+      "name": "Salmath K A",
+      "github": "https://github.com/salmathrahiman313",
+      "college": "KMEA",
+      "department": "Computer science"
+    },
+    {
+      "name": "Roushath Beevi K S",
+      "github": "https://github.com/Roushathbeeviks",
+      "college": "KMEA",
+      "department": "computer cience and ESngineering"
+    },
+    {
+      "name": "Riswana E A",
+      "github": "https://github.com/RiswanaEA",
+      "college": "KMEA",
+      "department": "COMPUTER SCIENCE "
     },
     {
       "name": "Maria Ashigha ",
       "github": "https://github.com/MariaAshigha",
       "college": "KMEA" ,
       "department": "COMPUTER SCIENCE "
-
+    },
+    {
+      "name": "Shamil Thaikkadan ",
+      "github": "https://github.com/Shamilthaikkadan",
+      "college": "SIAS",
+      "department": "BCA"
+    },
+    {
+      "name": "Mohammed Roshan T",
+      "github": "https://github.com/MohammedRoshanT",
+      "college": "GHS Mankafa",
+      "department": "9th STD"
     }
-    
   ]
 }
