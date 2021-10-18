@@ -3,10 +3,10 @@ export default function App() {
   const [reviewData, setReviewData] = useState<ReviewComponentProps[] | []>([]);
   useEffect(() => {
     async function fetchData() {
-      const response = await fetch(
-        "https://raw.githubusercontent.com/abjs/github-using-students-list/main/data.json"
-      );
       try {
+        const response = await fetch(
+          "https://raw.githubusercontent.com/abjs/github-using-students-list/main/data.json"
+        );
         const { data } = await response.json();
         setReviewData(data);
       } catch (error: any) {
@@ -42,7 +42,8 @@ export const ReviewComponent = ({
   college,
   department,
 }: ReviewComponentProps) => {
-  const github_user_name = github.replace("https://github.com/", "");
+  console.log(name, github, college, department);
+  const github_user_name = github?.replace("https://github.com/", "");
   return (
     <div className="info__component">
       <a
