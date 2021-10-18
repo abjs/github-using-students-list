@@ -85,6 +85,12 @@
       "department": "COMPUTER SCIENCE AND ENGINEERING"
     },
     {
+      "name": "Jesna Susan Siby",
+      "github": "https://github.com/jesna424",
+      "college": "KMEA ",
+      "department": "Computer Science and Engineering"
+    },
+    {
       "name": "anwar sadique k a",
       "github": "https://github.com/anwarsadiqueka",
       "college": "MES marampally ",
@@ -218,7 +224,7 @@
     },
     {
       "name": "Hack Club KMEA ",
-      "github": "https://github.com/hackclubkmea",
+      "": "https://github.com/hackclubkmea",
       "college": "KMEA",
       "department": "COMPUTER SCIENCE "
     },
@@ -257,6 +263,24 @@
       "github": "https://github.com/salmathrahiman313",
       "college": "KMEA",
       "department": "Computer science"
+    },
+    {
+      "name": "Roushath Beevi K S",
+      "github": ",https://github.com/Roushathbeeviks",
+      "college": "KMEA",
+      "department": "computer cience and ESngineering"
+    },
+    {
+    "name": "Riswana E A",
+      "github": "https://github.com/RiswanaEA",
+      "college": "KMEA",
+      "department": "COMPUTER SCIENCE "
+  },
+  {
+      "name": "Shamil Thaikkadan ",
+      "github": "https://github.com/Shamilthaikkadan",
+      "college": "SIAS",
+      "department": "BCA"
     }
   ]
 }
