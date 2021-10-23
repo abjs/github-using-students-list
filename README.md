@@ -5,9 +5,9 @@
 
 # GithubStudentsList
 
-## This is a repository give your details of github using student list
+## This is a repository of data of github using student list.
 
-# [Go  Web Site](https://abjs.github.io/github-using-students-list/)
+# [Go to Website](https://abjs.github.io/github-using-students-list/)
 
 ```diff
 {
@@ -32,7 +32,7 @@
 
 ### Update data.json with your information
 
-To format json and md file run the following commands from project folder before pull request
+To format json and md file run the following commands from project folder before you make pull request
 
  yarn / npm install
 
