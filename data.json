@@ -330,5 +330,11 @@
       "college": "SIAS",
       "department": "BCA"
     }
+    {
+     "name": "Ashique Sherief",
+     "github": "https://github.com/Ashiz-Red",
+     "college": "KMEA",
+     "department": "CSE"
+    }
   ]
 }
