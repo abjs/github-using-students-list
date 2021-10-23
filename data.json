@@ -291,7 +291,7 @@
     {
       "name": "Maria Ashigha ",
       "github": "https://github.com/MariaAshigha",
-      "college": "KMEA" ,
+      "college": "KMEA",
       "department": "COMPUTER SCIENCE "
     },
     {
@@ -317,16 +317,18 @@
       "github": "https://github.com/nithinalex94",
       "college": "BMC",
       "department": "computer science and engineering"
-    }, 
+    },
     {
-+    "name": "Sreelakshmi.k",
-+    "github": "https://github.com/Sreelakshmi54",
-+    "college":" Safi institude of advanced studies vazhayoor",
-+    "department": "Bsc.computer science"
-+   },
+      "name": "Sreelakshmi.k",
+      "github": "https://github.com/Sreelakshmi54",
+      "college": " Safi institude of advanced studies vazhayoor",
+      "department": "Bsc.computer science"
+    },
     {
       "name": "Irshad pk ",
       "github": "https://github.com/Irshad9074",
       "college": "SIAS",
       "department": "BCA"
     }
+  ]
+}
