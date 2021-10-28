@@ -329,12 +329,18 @@
       "github": "https://github.com/Irshad9074",
       "college": "SIAS",
       "department": "BCA"
-    }
+    },
     {
      "name": "Ashique Sherief",
      "github": "https://github.com/Ashiz-Red",
      "college": "KMEA",
      "department": "CSE"
+    },
+    {
+      "name": "Hana PP",
+      "github": "https://github.com/HanaPP2601",
+      "college": "MAMO College, Mukkam",
+      "department": "BSc Computer Science"
     }
   ]
 }
