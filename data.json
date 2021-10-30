@@ -329,11 +329,17 @@
       "github": "https://github.com/Irshad9074",
       "college": "SIAS",
       "department": "BCA"
-    }
+    },
     {
      "name": "Ashique Sherief",
      "github": "https://github.com/Ashiz-Red",
      "college": "KMEA",
+     "department": "CSE"
+    },
+    {
+     "name": "Rishiraj",
+     "github": "https://github.com/Rishiraj122",
+     "college": "NIST",
      "department": "CSE"
     }
   ]
